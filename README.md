@@ -13,4 +13,3 @@ Reward Part:
 # References
 - *[WCSAC(Tensorflow)](https://github.com/AlgTUDelft/WCSAC)* [Office]
 - *[WCSAC(PyTorch)](https://github.com/acl21/wcsac)* [Office]
-UPDATE TIME: 20240721
