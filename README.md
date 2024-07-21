@@ -12,9 +12,14 @@ Then, how to run it, as follows:
 
 # Result Part
 Cost Part:
-![image](https://github.com/CrazyLisp/WCSAC_D/blob/main/img/cost_part.png#pic_center =400x300)
+<p align = "center">    
+<img  src="https://github.com/CrazyLisp/WCSAC_D/blob/main/img/cost_part.png" width="400" />
+</p>
+
 Reward Part:
-![image](https://github.com/CrazyLisp/WCSAC_D/blob/main/img/reward_part.png#pic_center =400x300)
+<p align = "center">    
+<img  src="https://github.com/CrazyLisp/WCSAC_D/blob/main/img/reward_part.png" width="400" />
+</p>
 
 # References
 - *[WCSAC(Tensorflow)](https://github.com/AlgTUDelft/WCSAC)* [Office]
