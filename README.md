@@ -1,5 +1,6 @@
 # WCSAC_with_discrete_action_space
-Pytorch-based the discrete version of WCSAC
+Pytorch-based the discrete version of WCSAC.
+Please note that this is still in the testing phase.
 
 - Python *3.8.19*
 - You need to install the *[safety_gymnasium](https://github.com/PKU-Alignment/safety-gymnasium)*
