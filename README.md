@@ -10,5 +10,7 @@ Cost Part:
 Reward Part:
 ![image](https://github.com/CrazyLisp/WCSAC_D/blob/main/img/reward_part.png)
 
-
+# References
+- *[WCSAC(Tensorflow)](https://github.com/AlgTUDelft/WCSAC)* [Office]
+- *[WCSAC(PyTorch)](https://github.com/acl21/wcsac)* [Office]
 UPDATE TIME: 20240721
