@@ -6,9 +6,9 @@ Pytorch-based the discrete version of WCSAC
   
 # Result Part
 Cost Part:
-![image](https://github.com/CrazyLisp/WCSAC_with_discrete_action_space/blob/main/img/cost_part.png)
+![image](https://github.com/CrazyLisp/WCSAC_D/blob/main/img/cost_part.png)
 Reward Part:
-![image](https://github.com/CrazyLisp/WCSAC_with_discrete_action_space/blob/main/img/reward_part.png)
+![image](https://github.com/CrazyLisp/WCSAC_D/blob/main/img/reward_part.png)
 
 
 UPDATE TIME: 20240721
