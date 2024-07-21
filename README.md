@@ -3,7 +3,13 @@ Pytorch-based the discrete version of WCSAC
 
 - Python *3.8.19*
 - You need to install the *[safety_gymnasium](https://github.com/PKU-Alignment/safety-gymnasium)*
-  
+
+Then, how to run it, as follows:
+
+```shell
+./main_WCSAC.py
+```
+
 # Result Part
 Cost Part:
 ![image](https://github.com/CrazyLisp/WCSAC_D/blob/main/img/cost_part.png)
